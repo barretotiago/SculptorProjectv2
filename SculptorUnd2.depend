@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1686839214 source:c:\users\tiago barreto\desktop\sculptorund2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"sculptor.h"
+	"interpretador.h"
+	"figurageometrica.h"
+
+1686839077 source:c:\users\tiago barreto\desktop\sculptorund2\figurageometrica.cpp
+	"figurageometrica.h"
+
+1686761164 c:\users\tiago barreto\desktop\sculptorund2\figurageometrica.h
+	"sculptor.h"
+
+1686840702 c:\users\tiago barreto\desktop\sculptorund2\sculptor.h
+	<iostream>
+	<string>
+
+1686835750 source:c:\users\tiago barreto\desktop\sculptorund2\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1686762370 source:c:\users\tiago barreto\desktop\sculptorund2\cutbox.cpp
+	"cutbox.h"
+
+1686762707 c:\users\tiago barreto\desktop\sculptorund2\cutbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686834726 source:c:\users\tiago barreto\desktop\sculptorund2\cutelipsoid.cpp
+	"cutelipsoid.h"
+	<cmath>
+
+1686834698 c:\users\tiago barreto\desktop\sculptorund2\cutelipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686831989 source:c:\users\tiago barreto\desktop\sculptorund2\cutvoxel.cpp
+	"cutvoxel.h"
+
+1686831945 c:\users\tiago barreto\desktop\sculptorund2\cutvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686840380 c:\users\tiago barreto\desktop\sculptorund2\interpretador.h
+	<vector>
+	"figurageometrica.h"
+	"sculptor.h"
+	<string>
+
+1686762033 source:c:\users\tiago barreto\desktop\sculptorund2\putbox.cpp
+	"putbox.h"
+
+1686762064 c:\users\tiago barreto\desktop\sculptorund2\putbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686831748 source:c:\users\tiago barreto\desktop\sculptorund2\putelipsoid.cpp
+	"putelipsoid.h"
+	<cmath>
+
+1686831722 c:\users\tiago barreto\desktop\sculptorund2\putelipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686834903 source:c:\users\tiago barreto\desktop\sculptorund2\cutshere.cpp
+	"cutshere.h"
+	<cmath>
+
+1686834583 c:\users\tiago barreto\desktop\sculptorund2\cutshere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686831628 source:c:\users\tiago barreto\desktop\sculptorund2\putshere.cpp
+	"putshere.h"
+	<cmath>
+
+1686831587 c:\users\tiago barreto\desktop\sculptorund2\putshere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686763002 source:c:\users\tiago barreto\desktop\sculptorund2\putvoxel.cpp
+	"putvoxel.h"
+
+1686763031 c:\users\tiago barreto\desktop\sculptorund2\putvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1686838821 source:c:\users\tiago barreto\desktop\sculptorund2\interpretador.cpp
+	"interpretador.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iostream>
+	"putvoxel.h"
+	"cutvoxel.h"
+	"putbox.h"
+	"cutbox.h"
+	"putshere.h"
+	"cutshere.h"
+	"putelipsoid.h"
+	"cutelipsoid.h"
+	"interpretador.h"
+
