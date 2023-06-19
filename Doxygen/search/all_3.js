@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['draw_0',['draw',['../classcut_box.html#a5684e3579d3f209068446fe23e5c860e',1,'cutBox::draw()'],['../classcut_elipsoid.html#a1ecdfd0c63249d40af8ad145c3884b1e',1,'cutElipsoid::draw()'],['../classcut_sphere.html#a6bc51733fee7d7fe72fa7523a19d2c99',1,'cutSphere::draw()'],['../classcut_voxel.html#a87696dd80ca721636dd45c0adce350e9',1,'cutVoxel::draw()'],['../classfigura_geometrica.html#a50c440382a2d5eaa5d587393e9adbcba',1,'figuraGeometrica::draw()'],['../classput_box.html#a3bf444e1ba72b5c65e783f2f61d1d32f',1,'putBox::draw()'],['../classput_elipsoid.html#ac85477194ec4b1ce9d59f03a8e1b6fb3',1,'putElipsoid::draw()'],['../classput_shere.html#ab2bdd22d5a878b58ca4bb101b11d9eab',1,'putShere::draw()'],['../classput_voxel.html#a154755afd64ee3d7c2e9d1c561d86b66',1,'putVoxel::draw()']]]
+];
